@@ -29,12 +29,12 @@
     <ul>
       <li>
         <strong>Optimal cost constrained adversarial attacks for multiple agent systems</strong>,
-        Annual Conference on Information Sciences and Systems (CISS), 2025.
+        Annual Conference on Information Sciences and Systems (CISS), 2024.
         <a href="#">[PDF]</a> <a href="#">[Code]</a>
       </li>
       <li>
         <strong>Camouflage Adversarial Attacks on Multiple Agent Systems</strong>,
-        Journal of Artificial Intelligence Research (JAIR), 2024.
+        IEEE International Symposium on Information Theory (ISIT), 2024.
         <a href="#">[PDF]</a>
       </li>
     </ul>
