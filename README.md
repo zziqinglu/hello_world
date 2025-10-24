@@ -50,15 +50,5 @@
       <li>MATH1005: College Algebra</li>
     </ul>
   </div>
-
-  <div class="section">
-    <h2>Contact</h2>
-    <p>Email: <a href="mailto:ziqlu@uiowa.edu">ziqlu@uiowa.edu</a> 
-      <\p>
-  </div>
-
-  <script>
-    document.getElementById("year").textContent = new Date().getFullYear();
-  </script>
 </body>
 </html>
