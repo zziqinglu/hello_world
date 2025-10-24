@@ -53,10 +53,6 @@
 
   <div class="section">
     <h2>Contact</h2>
-    <p>
-      Office: Room 123, Science Building, University Name<br>
-      Email: <a href="mailto:your.email@university.edu">your.email@university.edu</a>
-    </p>
   </div>
 
   <footer style="margin-top: 40px; border-top: 1px solid #ccc; padding-top: 10px; font-size: 0.9em; color: #555;">
