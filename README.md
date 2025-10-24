@@ -2,9 +2,9 @@
   <h1>Ziqing Lu</h1>
   <p>Department of applied math and computational science, University of Iowa</p>
   <p>
-    Email: <a href="mailto:ziqlu@uiowa.edu">ziqlu@university.edu</a> |
+    Email: <a href="mailto:ziqlu@uiowa.edu">ziqlu@uiowa.edu</a> |
     <a href="https://github.com/zziqinglu">GitHub</a> |
-    <a href="https://scholar.google.com](https://scholar.google.com/citations?user=eGkLlw8AAAAJ&hl=en">Google Scholar</a>
+    <a href="https://scholar.google.com/citations?user=eGkLlw8AAAAJ&hl=en">Google Scholar</a>
   </p>
 
   <div class="section">
