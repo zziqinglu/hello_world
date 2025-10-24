@@ -1,29 +1,3 @@
-  <title>Your Name | Academic Page</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px auto;
-      max-width: 800px;
-      line-height: 1.6;
-      color: #222;
-    }
-    h1, h2 {
-      border-bottom: 2px solid #ccc;
-      padding-bottom: 4px;
-    }
-    a {
-      color: #0366d6;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .section {
-      margin-top: 30px;
-    }
-  </style>
-</head>
-
 <body>
   <h1>Your Name</h1>
   <p>Department of Computer Science, University Name</p>
