@@ -1,5 +1,10 @@
 <body>
   <h1>Ziqing Lu</h1>
+  <img
+      src="https://github.com/zziqinglu/zziqinglu/blob/main/images/profile.jpg?raw=true"
+      alt="Ziqing Lu"
+      class="profile-pic"
+    />
   <p>Department of applied math and computational science, University of Iowa</p>
   <p>
     Email: <a href="mailto:ziqlu@uiowa.edu">ziqlu@uiowa.edu</a> |
