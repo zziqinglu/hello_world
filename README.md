@@ -53,11 +53,9 @@
 
   <div class="section">
     <h2>Contact</h2>
+    <p>Email: <a href="mailto:ziqlu@uiowa.edu">ziqlu@uiowa.edu</a> 
+      <\p>
   </div>
-
-  <footer style="margin-top: 40px; border-top: 1px solid #ccc; padding-top: 10px; font-size: 0.9em; color: #555;">
-    © <span id="year"></span> Your Name — Hosted on GitHub Pages
-  </footer>
 
   <script>
     document.getElementById("year").textContent = new Date().getFullYear();
