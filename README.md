@@ -1,8 +1,8 @@
 <body>
-  <h1>Your Name</h1>
-  <p>Department of Computer Science, University Name</p>
+  <h1>Ziqing Lu</h1>
+  <p>Department of applied math and computational science, University of Iowa</p>
   <p>
-    Email: <a href="mailto:your.email@university.edu">your.email@university.edu</a> |
+    Email: <a href="mailto:ziqlu@uiowa.edu">ziqlu@university.edu</a> |
     <a href="https://github.com/yourusername">GitHub</a> |
     <a href="https://scholar.google.com">Google Scholar</a>
   </p>
