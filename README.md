@@ -11,15 +11,15 @@
     <h2>About</h2>
     <p>
       I am a researcher interested in reinforcement learning, optimization, and decision-making under uncertainty.
-      I am currently a Ph.D. candidate at University Name, advised by Prof. Advisor.
+      I am currently a Ph.D. candidate at University of Iowa, advised by Prof. Weiyu Xu.
     </p>
   </div>
 
   <div class="section">
     <h2>Research</h2>
     <ul>
-      <li>Reinforcement learning with function approximation</li>
-      <li>Safe and robust decision making</li>
+      <li>Reinforcement learning</li>
+      <li>Adversarial attacks and robust decision making</li>
       <li>Hierarchical and configurable MDPs</li>
     </ul>
   </div>
@@ -28,12 +28,12 @@
     <h2>Publications</h2>
     <ul>
       <li>
-        <strong>Title of Paper</strong>,
-        Conference on Machine Learning (ICML), 2025.
+        <strong>Optimal cost constrained adversarial attacks for multiple agent systems</strong>,
+        Annual Conference on Information Sciences and Systems (CISS), 2025.
         <a href="#">[PDF]</a> <a href="#">[Code]</a>
       </li>
       <li>
-        <strong>Another Paper Title</strong>,
+        <strong>Camouflage Adversarial Attacks on Multiple Agent Systems</strong>,
         Journal of Artificial Intelligence Research (JAIR), 2024.
         <a href="#">[PDF]</a>
       </li>
@@ -43,8 +43,11 @@
   <div class="section">
     <h2>Teaching</h2>
     <ul>
-      <li>CS101: Introduction to Machine Learning (Spring 2025)</li>
-      <li>CS201: Reinforcement Learning (Fall 2024)</li>
+      <li>MATH5600: Orindary Differential Equation</li>
+      <li>MATH1850: Calculus I</li>
+      <li>MATH1350: Quantitative Reasoning of Business</li>
+      <li>MATH1010: Elemetary Functions</li>
+      <li>MATH1005: College Algebra</li>
     </ul>
   </div>
 
